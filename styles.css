@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 3;
+    padding: 4;
+    background-color: #123f77;
+}
+
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #f5db37;
+    border-radius: 50px;
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#img-div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#image {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#img-caption {
+    font-size: 14px;
+    color: #4f3a3a;
+    margin-top: 10px;
+}
+
+#tribute-info {
+    margin-bottom: 20px;
+}
+
+#headline {
+    margin-top: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.painting {
+    margin-bottom: 1rem;
+}
+
+.painting img {
+    max-width: 100%;
+    height: auto;
+}
+
